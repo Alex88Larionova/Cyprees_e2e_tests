@@ -1,0 +1,6 @@
+{
+  "mail":"#mail",
+  "pass":"#pass",
+  "loginButton":"#loginButton",
+  "forgotEmailBtn":"#forgotEmailButton"
+}
